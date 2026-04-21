@@ -1,6 +1,6 @@
 # Ignore datasets
 data/
-heart disease/
+
 
 # Kaggle files
 kaggle.json
