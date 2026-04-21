@@ -1,0 +1,21 @@
+# Ignore datasets
+data/
+heart disease/
+
+# Kaggle files
+kaggle.json
+
+# Large files
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.env
+
+# VS Code
+.vscode/
